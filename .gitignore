@@ -2,3 +2,6 @@ venv
 .vscode
 .pytest_cache
 .mypy_cache
+tests/__pycache__
+tests/__init__.py
+pythonic_design_patterns/__pycache__
